@@ -1,6 +1,6 @@
 ---
 title: "Software Licensing"
-author: "Dinesh Dinesh"
+author: "Dinesh Poddaturi"
 topic: "09"
 layout: post
 root: ../../../
